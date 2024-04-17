@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @MuhaZunair
+- 👋 Hi, I’m @MuhaZunair 
 - 👀 I’m interested in WordPress
 - 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muhammadzunaircaa@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Zunair
 - ⚡ Fun fact: ...
 
 <!---
