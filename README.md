@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhaZunair 
-- 👀 I’m interested in WordPress
-- 🌱 I’m currently learning Mobile App Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in WordPress, CHE, Content Writing etc.
+- 🌱 I’m currently learning CHE
+- 💞️ I’m looking to collaborate on All Work.
 - 📫 How to reach me muhammadzunaircaa@gmail.com
 - 😄 Pronouns: Zunair
 - ⚡ Fun fact: ...
